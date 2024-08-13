@@ -1,0 +1,3 @@
+# Exercise 14-3: OOP There it is pt. 3
+In this exercise we are going to modify our shapes module and add a circle class.  The constructor for the circle class should require a raidus argument, and use that value to compute diameter, circumference, and surface area.
+Your code is complete when you print the radius, diameter, circumference, and area of your circle object which should be constructed in main.
